@@ -1,39 +1,17 @@
 ## Proyectos NLP 2020
 
 <img src='https://ih1.redbubble.net/image.633487061.1521/st,small,845x845-pad,1000x1000,f8f8f8.u7.jpg' style="float:left;width:42px;height:42px;> Porque un año de pandemía puede ser muy productivo. Mi nombre es Viviana Márquez y aunque soy científica de datos ustedes quizás me pueden conocer por mis malos memes reconocidos mundialmente. En este repositorio les mostraré distintas estrategias para procesar textos usando inteligencia aritificial. 
+                                                                                                              
 
-You can use the [editor on GitHub](https://github.com/vivianamarquez/EjemploPortafolioNLP/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### Proyectos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- [Recolección de tweets](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
+Haciendo uso de la API de Twitter para adquirir tuits sobre Halloween.
 
-### Markdown
+- [Análisis de sentimiento](https://www.youtube.com/watch?v=lPhYYRL-llk&ab_channel=manuelcascales)
+Dado un conjunto de datos, se le asignó una puntuación de sentimiento a cada uno de los regístros en el corpus.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### ¿Me quieres contratar y llevar tu empresa al éxito cósmico? 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vivianamarquez/EjemploPortafolioNLP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Entonces agrégame a [LinkedIn](https://www.linkedin.com/in/vivianamarquez/)
