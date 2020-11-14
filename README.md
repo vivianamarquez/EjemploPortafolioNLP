@@ -16,3 +16,5 @@ Dado un conjunto de datos, se le asignó una puntuación de sentimiento a cada u
 ### ¿Me quieres contratar y llevar tu empresa al éxito cósmico? 
 
 Entonces agrégame a [LinkedIn](https://www.linkedin.com/in/vivianamarquez/)
+
+Info: http://vivianamarquez.com/EjemploPortafolioNLP/
