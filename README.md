@@ -1,6 +1,7 @@
 ## Proyectos NLP 2020
 
-<img src='https://ih1.redbubble.net/image.633487061.1521/st,small,845x845-pad,1000x1000,f8f8f8.u7.jpg' style="float:left;width:42px;height:42px;> Porque un año de pandemía puede ser muy productivo. Mi nombre es Viviana Márquez y aunque soy científica de datos ustedes quizás me pueden conocer por mis malos memes reconocidos mundialmente. En este repositorio les mostraré distintas estrategias para procesar textos usando inteligencia aritificial. 
+![Image](https://ih1.redbubble.net/image.633487061.1521/st,small,845x845-pad,1000x1000,f8f8f8.u7.jpg)
+Porque un año de pandemía puede ser muy productivo. Mi nombre es Viviana Márquez y aunque soy científica de datos ustedes quizás me pueden conocer por mis malos memes reconocidos mundialmente. En este repositorio les mostraré distintas estrategias para procesar textos usando inteligencia aritificial. 
                                                                                                               
 
 ### Proyectos
