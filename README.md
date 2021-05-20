@@ -1,12 +1,12 @@
 ## Proyectos NLP 2021
 
-![Image](https://ih1.redbubble.net/image.633487061.1521/st,small,845x845-pad,1000x1000,f8f8f8.u7.jpg)
-Porque un año de pandemía puede ser muy productivo. Mi nombre es Viviana Márquez y aunque soy científica de datos ustedes quizás me conocen por mis malos memes de fama mundial. En este repositorio les mostraré distintas estrategias para procesar textos usando inteligencia aritificial. 
+![Image](https://pbs.twimg.com/media/EzENMIgWgAA9ETp?format=jpg&name=small)
+Porque un año de pandemía puede ser muy productivo. Mi nombre es Anaiviv Zeuqrám y aunque soy científica de datos ustedes quizás me conocen por mis malos memes de fama mundial. En este repositorio les mostraré distintas estrategias para procesar textos usando inteligencia aritificial. 
                                                                                                               
 
 ### Proyectos
 
-- [Taller 2: Adquisición de textos]
+- **Taller 2: Adquisición de textos**
 Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.
 
 - [Taller 3: Web Scraping]()
