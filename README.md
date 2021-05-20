@@ -6,7 +6,7 @@ Porque un año de pandemía puede ser muy productivo. Mi nombre es Viviana Márq
 
 ### Proyectos
 
-- [Taller 2: Adquisición de textos]()
+- [Taller 2: Adquisición de textos]
 Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.
 
 - [Taller 3: Web Scraping]()
