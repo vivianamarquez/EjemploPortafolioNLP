@@ -1,6 +1,8 @@
 ## Proyectos NLP 2021
 
 ![Image](https://pbs.twimg.com/media/EzENMIgWgAA9ETp?format=jpg&name=small)
+
+
 Porque un año de pandemía puede ser muy productivo. Mi nombre es Anaiviv Zeuqrám y aunque soy científica de datos ustedes quizás me conocen por mis malos memes de fama mundial. En este repositorio les mostraré distintas estrategias para procesar textos usando inteligencia aritificial. 
                                                                                                               
 
