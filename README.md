@@ -20,9 +20,6 @@ Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis r
 - **Taller 5: TF-IDF**
 Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.
 
-- **Taller 6: Word2Vec**
-Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.
-
 - **Taller 7: Clasificación de textos**
 Universum melius alumni mei sunt ingeniosi ac dolor. Professionalem in optimis rebus velim.
 
